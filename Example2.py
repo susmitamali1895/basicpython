@@ -1,9 +1,3 @@
-class Person:
-    def __init__(self,name,age):
-        self.name =name
-        self.age = age 
-
-    def __str__(self):
-        return f" {self.name}({self.age})"
-p1 = Person(" Susmita", 29)
-print(p1)
+# multiply argument a with argument b and return result
+x = lambda a, b: a*b
+print(x(5,6))
