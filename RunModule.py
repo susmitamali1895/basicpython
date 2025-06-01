@@ -1,3 +1,3 @@
-import Mymodule
-result = Mymodule.add(5,10)
+import MyModuleSub
+result = MyModuleSub.sub(89,45)
 print(result)
