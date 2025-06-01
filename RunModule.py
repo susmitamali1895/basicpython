@@ -1,3 +1,4 @@
-import MyModoleSq
-result = MyModoleSq.Square(5)
+import math 
+import AreaCalModule
+result = AreaCalModule.area_circle(3.14, 2)
 print(result)
