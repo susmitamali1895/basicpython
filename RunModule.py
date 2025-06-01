@@ -1,3 +1,3 @@
-import MyModuleDiv
-result = MyModuleDiv.div(27,3)
+import MyModoleSq
+result = MyModoleSq.Square(5)
 print(result)
