@@ -1,2 +1,3 @@
-import MyModule
-MyModule.greeting("Susmita")
+import Mymodule
+result = Mymodule.add(5,10)
+print(result)
