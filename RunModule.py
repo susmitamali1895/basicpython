@@ -1,4 +1,3 @@
-import math 
-import AreaCalModule
-result = AreaCalModule.area_circle(3.14, 2)
+import AreaRectModule
+result = AreaRectModule.area_rectangle(4,3)
 print(result)
