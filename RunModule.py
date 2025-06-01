@@ -1,3 +1,3 @@
-import MyModuleSub
-result = MyModuleSub.sub(89,45)
+import MyModuleDiv
+result = MyModuleDiv.div(27,3)
 print(result)
