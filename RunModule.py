@@ -1,3 +1,3 @@
-import AreaRectModule
-result = AreaRectModule.area_rectangle(4,3)
-print(result)
+import MymoduleRename as mx
+a = mx.person1["name"]
+print(a)

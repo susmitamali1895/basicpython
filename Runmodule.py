@@ -1,3 +1,3 @@
-import AreaofSquare
-result = AreaofSquare.area_square(4)
-print(result)
+import MymoduleVar1
+a = MymoduleVar1.person1["age"]
+print(a)
