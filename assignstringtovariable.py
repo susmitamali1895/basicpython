@@ -1,0 +1,2 @@
+x = "Susmita"
+print(x)
