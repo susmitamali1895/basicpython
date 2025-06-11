@@ -1,9 +1,7 @@
-class Person:
-    def __init__(self,name,age):
-        self.name =name
-        self.age = age 
-
-    def __str__(self):
-        return f" {self.name}({self.age})"
-p1 = Person(" Susmita", 29)
-print(p1)
+#many exceptions
+try:
+    print(x)
+except NameError:
+    print("variable x is not defined")
+except:
+    print("something else went wrong")
