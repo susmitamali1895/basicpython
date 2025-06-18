@@ -1,0 +1,6 @@
+name = input ("Enter your name :")
+print(f"Hello {name}")
+fav1 = input("what is your favorite animal:")
+fav2 = input("what is your favorite colour:")
+fav3 = input("waht is your favorite number:")
+print(f"Do you want a {fav2} {fav1} with {fav3} legs?")
